@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Frequency">b8d088d047333110be1cf19f016d4318</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1118178_freq_frequency</name>
+        <order>9</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-13 12:54:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>41d0809447333110be1cf19f016d43cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Frequency" source="x_1118178_freq">7b0f778047333110be1cf19f016d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Frequency">7b0f778047333110be1cf19f016d4394</sys_scope>
+        <sys_update_name>sys_app_module_41d0809447333110be1cf19f016d43cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-13 12:54:04</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Frequency">7b0f778047333110be1cf19f016d4394</application>
+        <file_path/>
+        <instance_id>749fb793dbfd3550ae4c9027c59619f4</instance_id>
+        <instance_name>dev187408</instance_name>
+        <name>sys_app_module_41d0809447333110be1cf19f016d43cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Frequency">b8d088d047333110be1cf19f016d4318</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>All</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1118178_freq_frequency</name><order>9</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-13 12:54:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>41d0809447333110be1cf19f016d43cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Frequency" source="x_1118178_freq">7b0f778047333110be1cf19f016d4394</sys_package><sys_policy/><sys_scope display_value="Frequency">7b0f778047333110be1cf19f016d4394</sys_scope><sys_update_name>sys_app_module_41d0809447333110be1cf19f016d43cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-13 12:54:04</sys_updated_on><timeline_page/><title>All</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1251074416</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>770f778047333110be1cf19f016d4398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-13 12:54:04</sys_created_on>
+        <sys_id>0dd0809447333110be1cf19f016d43cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d02e2f5b50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-13 12:54:04</sys_updated_on>
+        <type>Module</type>
+        <update_guid>41d08094f13331108b95591083aeeacd</update_guid>
+        <update_guid_history>41d08094f13331108b95591083aeeacd:-1251074416</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All">238e452447f77110be1cf19f016d43a3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-14 13:12:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>4fe2a70c8f0745e3b5061051d38f78c9</sys_id>
+        <sys_metadata>41d0809447333110be1cf19f016d43cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="Frequency" source="x_1118178_freq">7b0f778047333110be1cf19f016d4394</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Frequency">7b0f778047333110be1cf19f016d4394</sys_scope>
+        <sys_scope_delete display_value="">065ab89f689b4a208ad1e4a39662c400</sys_scope_delete>
+        <sys_update_name>sys_app_module_41d0809447333110be1cf19f016d43cc</sys_update_name>
+        <sys_update_version display_value="sys_app_module_41d0809447333110be1cf19f016d43cc">0dd0809447333110be1cf19f016d43cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-14 13:12:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="06bf7f0447333110be1cf19f016d4323" label="Student" max_length="40" name="x_1118178_freq_student" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="First Name" mandatory="true" max_length="100" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Full Name" max_length="200" name="full_name" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="100" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

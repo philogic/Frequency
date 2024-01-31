@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a0ae05e047f77110be1cf19f016d4399" label="Frequency" max_length="40" name="x_1118178_freq_frequency" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#9;var result;&#13;&#10;&#9;if (current.student == '800a7994473b3110be1cf19f016d43cd' || current.student == '4bc93918473b3110be1cf19f016d437a') {&#13;&#10;&#9;&#9;result = 100 * ((current.individual_hours - current.present_hours) / current.individual_hours);&#13;&#10;&#9;&#9;return result;&#13;&#10;&#9;}&#13;&#10;    result = 100 * ((current.subject.hours_per_week - current.present_hours) / current.subject.hours_per_week);&#13;&#10;    return result;&#13;&#10;})(current);" label="Frequency (percentage)" max_length="20" name="frequency" type="decimal" virtual="true"/>
+        <element label="Individual hours" max_length="20" name="individual_hours" type="decimal"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Absent Hours" max_length="20" name="present_hours" type="decimal"/>
+        <element label="Student" max_length="32" name="student" reference="x_1118178_freq_student" type="reference"/>
+        <element label="Subject" max_length="32" name="subject" reference="x_1118178_freq_subject" type="reference"/>
+        <index name="index">
+            <element name="student"/>
+        </index>
+        <index name="index2">
+            <element name="subject"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-13 12:53:45</sys_created_on>
+        <sys_id>58c0409447333110be1cf19f016d4355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1118178_freq_frequency.x_1118178_freq.freq_user</sys_name>
+        <sys_package display_value="Frequency" source="x_1118178_freq">7b0f778047333110be1cf19f016d4394</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Frequency">7b0f778047333110be1cf19f016d4394</sys_scope>
+        <sys_security_acl display_value="x_1118178_freq_frequency">10c0409447333110be1cf19f016d4353</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_58c0409447333110be1cf19f016d4355</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-13 12:53:45</sys_updated_on>
+        <sys_user_role display_value="x_1118178_freq.freq_user" name="x_1118178_freq.freq_user">e23f370447333110be1cf19f016d43fe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Frequency">7b0f778047333110be1cf19f016d4394</application>
+        <file_path/>
+        <instance_id>749fb793dbfd3550ae4c9027c59619f4</instance_id>
+        <instance_name>dev187408</instance_name>
+        <name>sys_security_acl_role_58c0409447333110be1cf19f016d4355</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-13 12:53:45</sys_created_on><sys_id>58c0409447333110be1cf19f016d4355</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1118178_freq_frequency.x_1118178_freq.freq_user</sys_name><sys_package display_value="Frequency" source="x_1118178_freq">7b0f778047333110be1cf19f016d4394</sys_package><sys_policy/><sys_scope display_value="Frequency">7b0f778047333110be1cf19f016d4394</sys_scope><sys_security_acl display_value="x_1118178_freq_frequency">10c0409447333110be1cf19f016d4353</sys_security_acl><sys_update_name>sys_security_acl_role_58c0409447333110be1cf19f016d4355</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-13 12:53:45</sys_updated_on><sys_user_role display_value="x_1118178_freq.freq_user" name="x_1118178_freq.freq_user">e23f370447333110be1cf19f016d43fe</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-213114352</payload_hash>
+        <record_name>x_1118178_freq_frequency.x_1118178_freq.freq_user</record_name>
+        <reverted_from/>
+        <source>770f778047333110be1cf19f016d4398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-13 12:53:45</sys_created_on>
+        <sys_id>9cc0409447333110be1cf19f016d4357</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d02e2aaa70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-13 12:53:45</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d0c04094ee333110615dfee61a4e1257</update_guid>
+        <update_guid_history>d0c04094ee333110615dfee61a4e1257:-213114352</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1118178_freq_frequency.x_1118178_freq.freq_user">eb8e452447f77110be1cf19f016d435b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-14 13:12:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>59373ea5c1234195a157423e51bc57a1</sys_id>
+        <sys_metadata>58c0409447333110be1cf19f016d4355</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1118178_freq_frequency.x_1118178_freq.freq_user</sys_name>
+        <sys_package display_value="Frequency" source="x_1118178_freq">7b0f778047333110be1cf19f016d4394</sys_package>
+        <sys_parent display_value="">10c0409447333110be1cf19f016d4353</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Frequency">7b0f778047333110be1cf19f016d4394</sys_scope>
+        <sys_scope_delete display_value="">065ab89f689b4a208ad1e4a39662c400</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_58c0409447333110be1cf19f016d4355</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_58c0409447333110be1cf19f016d4355">9cc0409447333110be1cf19f016d4357</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-14 13:12:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
